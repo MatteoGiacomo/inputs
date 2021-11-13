@@ -1,5 +1,8 @@
 # Inputs
 
+link to live version: 
+https://inputs.vercel.app/#/ 
+
 ## Project setup
 ```
 npm install
